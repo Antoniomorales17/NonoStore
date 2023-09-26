@@ -8,10 +8,11 @@ const FeaturedProducts = ({ type }) => {
     const data = [
         {
             id: 1,
-            tittle: "Camiseta de algodón",
-            oldPrice: "€29.99",
-            price: "€19.99",
-            img: "https://images.pexels.com/photos/1457983/pexels-photo-1457983.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            tittle: "Jeans ajustados",
+            oldPrice: "€49.99",
+            price: "€39.99",
+            img: "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            
         },
         {
             id: 2,
@@ -29,10 +30,10 @@ const FeaturedProducts = ({ type }) => {
         },
         {
             id: 4,
-            tittle: "Chaqueta de cuero",
-            oldPrice: "€89.99",
-            price: "€69.99",
-            img: "https://images.pexels.com/photos/1549200/pexels-photo-1549200.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            tittle: "Jeans ajustados",
+            oldPrice: "€49.99",
+            price: "€39.99",
+            img: "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
         },
     ];
     return (
