@@ -19,6 +19,8 @@
 
 3. **Contacto y Consultas**: Si tienes preguntas sobre nuestros productos o deseas más información, no dudes en ponerte en contacto con nosotros. Estamos aquí para ayudarte.
 
+![menu](https://i.imgur.com/X7cYLdf.jpg)
+
 ## Contribución 📋
 
 Apreciamos cualquier comentario o sugerencia que puedas tener para mejorar nuestra tienda en línea. Si tienes ideas para nuevas características o mejoras, por favor compártelas con nosotros.
