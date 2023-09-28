@@ -27,7 +27,7 @@ Apreciamos cualquier comentario o sugerencia que puedas tener para mejorar nuest
 
 ## Contacto 📩
 
-Si deseas ponerte en contacto con nosotros, puedes hacerlo a través de [contacto@tu-tienda.com](mailto:antoniomora.gimenez.com). Estamos disponibles para responder tus consultas y proporcionarte la información que necesitas.
+Si deseas ponerte en contacto con nosotros, puedes hacerlo a través de [antoniomora.gimenenez.com](mailto:antoniomora.gimenez.com). Estamos disponibles para responder tus consultas y proporcionarte la información que necesitas.
 
 ¡Gracias por visitar nuestra Tienda de Ropa en línea! Esperamos que encuentres productos de tu interés y que disfrutes de tu visita.
 
