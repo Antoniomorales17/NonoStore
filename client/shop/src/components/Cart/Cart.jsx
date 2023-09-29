@@ -13,15 +13,6 @@ const Cart = () => {
       img:
         "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
     },
-    {
-      id: 2,
-      tittle: "Jeans ajustados",
-      desc:"Jeans ajustados",
-      oldPrice: "€49.99",
-      price: "€39.99",
-      img:
-        "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    },
   ];
 
   return (

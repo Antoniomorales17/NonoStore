@@ -1,26 +1,28 @@
+/* FeaturedProducts.scss */
+
 .featuredProducts {
     margin: 100px 200px;
 
-    .top{
+    .top {
         display: flex;
         align-items: center;
         justify-content: space-between;
         margin-bottom: 50px;
 
-        h1{
+        h1 {
             flex: 2;
             text-transform: capitalize;
         }
 
         p {
             flex: 3;
-            color:gray
+            color: gray;
         }
     }
+
     .bottom {
         display: flex;
-        justify-content: center;
-        gap: 50%;
-
+        justify-content: space-between; /* Ajusta el espacio entre los productos */
+        flex-wrap: wrap; /* Para que los productos se ajusten automáticamente en una fila */
     }
 }

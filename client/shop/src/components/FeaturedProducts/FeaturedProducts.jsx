@@ -6,34 +6,27 @@ import Card from "../Card/Card";
 const FeaturedProducts = ({ type }) => {
 
     const data = [
+        
         {
             id: 1,
-            tittle: "Jeans ajustados",
+            tittle: "Jersey",
             oldPrice: "€49.99",
             price: "€39.99",
-            img: "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
-            
+            img: "https://images.pexels.com/photos/18305042/pexels-photo-18305042.jpeg?auto=compress&cs=tinysrgb&w=1600",
         },
         {
             id: 2,
-            tittle: "Jeans ajustados",
-            oldPrice: "€49.99",
-            price: "€39.99",
-            img: "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        },
-        {
-            id: 3,
-            tittle: "Vestido floral",
+            tittle: "Camisa",
             oldPrice: "€39.99",
             price: "€29.99",
             img: "https://images.pexels.com/photos/3379242/pexels-photo-3379242.jpeg?auto=compress&cs=tinysrgb&w=1600",
         },
         {
-            id: 4,
-            tittle: "Jeans ajustados",
-            oldPrice: "€49.99",
-            price: "€39.99",
-            img: "https://images.pexels.com/photos/2652959/pexels-photo-2652959.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            id: 3,
+            tittle: "Sombrero",
+            oldPrice: "€19.99",
+            price: "€14.99",
+            img: "https://images.pexels.com/photos/18384083/pexels-photo-18384083.jpeg?auto=compress&cs=tinysrgb&w=1600",
         },
     ];
     return (
